@@ -1,10 +1,8 @@
 ---
 layout: cv
-title: CV
+title: cv
 permalink: /cv/
+cv_pdf= Devris_Isler_CV_2025.pdf
+toc:
+  sidebar: left
 ---
-
-You can download my full CV here:
-
-[Download CV](/assets/pdf/Devris_Isler_CV_2025.pdf)
-
