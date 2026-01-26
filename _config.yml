@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title:  "" # the website title (if blank, full name will be used instead)
 first_name: "Devriş"
-middle_name: 
+middle_name: null
 last_name: "İşler"
 email: devris.isler@imdea.org
 contact_note: >
@@ -265,8 +265,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  first_name: [Devris, "Devriş"]
+  last_name:  [Isler, "İşler", "İsler"]
 
   style: apa
   locale: en
