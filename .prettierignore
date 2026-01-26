@@ -14,6 +14,5 @@ _scripts/*
 _data/citations.yml
 _config.yml
 _layouts/cv.liquid
-_pages/about_einstein.md
 _pages/about.md
 
