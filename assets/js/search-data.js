@@ -448,7 +448,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-i-have-attended-csp-ias-winter-school-on-cryptography-and-machine-learning-in-turin-italy-url-https-ai4i-it-ias-winter-school-2026-faculty",
+          section: "News",},{id: "news-i-have-attended-csp-ias-winter-school-on-cryptography-and-machine-learning-in-turin-italy",
           title: 'I have attended CSP-IAS Winter School on Cryptography and Machine Learning in Turin,...',
           description: "",
           section: "News",},{id: "projects-project-1",
