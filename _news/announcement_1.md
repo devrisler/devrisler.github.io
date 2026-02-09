@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have attended CSP-IAS Winter School on Cryptography and Machine Learning in Turin, Italy!! (\url{https://ai4i.it/ias-winter-school-2026/#faculty})
+I have attended CSP-IAS Winter School on Cryptography and Machine Learning in Turin, Italy! 🥳
