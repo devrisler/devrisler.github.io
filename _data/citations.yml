@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-24'
+  last_updated: '2026-05-08'
 papers:
   NPDGEgQAAAAJ:2osOgNQ5qMEC:
     citations: 11
@@ -17,8 +17,12 @@ papers:
     citations: 0
     title: 'FedPoP: Federated Learning Meets Proof of Participation'
     year: '2025'
+  NPDGEgQAAAAJ:Se3iqnhoufwC:
+    citations: 0
+    title: Secure and Updatable Single Password Authentication
+    year: '2026'
   NPDGEgQAAAAJ:Tyk-4Ss8FVUC:
-    citations: 1
+    citations: 2
     title: Strengthening Privacy in Robust Federated Learning through Secure Aggregation
     year: '2024'
   NPDGEgQAAAAJ:UeHWp8X0CEIC:
