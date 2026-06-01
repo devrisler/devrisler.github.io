@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-08'
+  last_updated: '2026-06-01'
 papers:
   NPDGEgQAAAAJ:2osOgNQ5qMEC:
     citations: 11
@@ -26,7 +26,7 @@ papers:
     title: Strengthening Privacy in Robust Federated Learning through Secure Aggregation
     year: '2024'
   NPDGEgQAAAAJ:UeHWp8X0CEIC:
-    citations: 0
+    citations: 1
     title: Graph Database Watermarking Using Pseudo-Nodes
     year: '2023'
   NPDGEgQAAAAJ:W7OEmFMy1HYC:
@@ -50,7 +50,7 @@ papers:
     title: User Study on Single Password Authentication
     year: '2018'
   NPDGEgQAAAAJ:u-x6o8ySG0sC:
-    citations: 11
+    citations: 12
     title: 'Freqywm: Frequency watermarking for the new data economy'
     year: '2022'
   NPDGEgQAAAAJ:ufrVoPGSRksC:
