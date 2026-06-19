@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-01'
+  last_updated: '2026-06-19'
 papers:
   NPDGEgQAAAAJ:2osOgNQ5qMEC:
     citations: 11
@@ -14,7 +14,7 @@ papers:
     title: Threshold single password authentication
     year: '2017'
   NPDGEgQAAAAJ:LkGwnXOMwfcC:
-    citations: 0
+    citations: 1
     title: 'FedPoP: Federated Learning Meets Proof of Participation'
     year: '2025'
   NPDGEgQAAAAJ:Se3iqnhoufwC:
@@ -22,7 +22,7 @@ papers:
     title: Secure and Updatable Single Password Authentication
     year: '2026'
   NPDGEgQAAAAJ:Tyk-4Ss8FVUC:
-    citations: 2
+    citations: 3
     title: Strengthening Privacy in Robust Federated Learning through Secure Aggregation
     year: '2024'
   NPDGEgQAAAAJ:UeHWp8X0CEIC:
@@ -38,7 +38,7 @@ papers:
     title: A Bermuda Triangle? Data Economy, Data Privacy, and Data Ownership
     year: '2025'
   NPDGEgQAAAAJ:d1gkVwhDpl0C:
-    citations: 16
+    citations: 17
     title: User perceptions of security and usability of mobile-based single password authentication and two-factor authentication
     year: '2019'
   NPDGEgQAAAAJ:eQOLeE2rZwMC:
@@ -50,7 +50,7 @@ papers:
     title: User Study on Single Password Authentication
     year: '2018'
   NPDGEgQAAAAJ:u-x6o8ySG0sC:
-    citations: 12
+    citations: 14
     title: 'Freqywm: Frequency watermarking for the new data economy'
     year: '2022'
   NPDGEgQAAAAJ:ufrVoPGSRksC:
