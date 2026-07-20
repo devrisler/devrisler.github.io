@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-19'
+  last_updated: '2026-07-20'
 papers:
   NPDGEgQAAAAJ:2osOgNQ5qMEC:
     citations: 11
@@ -29,6 +29,10 @@ papers:
     citations: 1
     title: Graph Database Watermarking Using Pseudo-Nodes
     year: '2023'
+  NPDGEgQAAAAJ:UebtZRa9Y70C:
+    citations: 0
+    title: 'INDEXGUARD: Index-only Backdoor Vetting for Secure Federated PEFT of Large Language Models'
+    year: '2026'
   NPDGEgQAAAAJ:W7OEmFMy1HYC:
     citations: 0
     title: "Privacy Perceptions and Behaviors of LGBTQ+ Community in T\xFCrkiye"
