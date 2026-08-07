@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-20'
+  last_updated: '2026-08-07'
 papers:
   NPDGEgQAAAAJ:2osOgNQ5qMEC:
     citations: 11
@@ -17,12 +17,8 @@ papers:
     citations: 1
     title: 'FedPoP: Federated Learning Meets Proof of Participation'
     year: '2025'
-  NPDGEgQAAAAJ:Se3iqnhoufwC:
-    citations: 0
-    title: Secure and Updatable Single Password Authentication
-    year: '2026'
   NPDGEgQAAAAJ:Tyk-4Ss8FVUC:
-    citations: 3
+    citations: 2
     title: Strengthening Privacy in Robust Federated Learning through Secure Aggregation
     year: '2024'
   NPDGEgQAAAAJ:UeHWp8X0CEIC:
@@ -50,18 +46,18 @@ papers:
     title: Dataset Watermarking Using the Discrete Wavelet Transform
     year: '2025'
   NPDGEgQAAAAJ:qjMakFHDy7sC:
-    citations: 5
+    citations: 6
     title: User Study on Single Password Authentication
     year: '2018'
   NPDGEgQAAAAJ:u-x6o8ySG0sC:
-    citations: 14
+    citations: 13
     title: 'Freqywm: Frequency watermarking for the new data economy'
     year: '2022'
   NPDGEgQAAAAJ:ufrVoPGSRksC:
-    citations: 0
+    citations: 1
     title: Extending Null Embedding for Deep Neural Network (DNN) Watermarking
     year: '2025'
   NPDGEgQAAAAJ:zYLM7Y9cAGgC:
     citations: 3
-    title: 'Puppy: A Publicly Verifiable Watermarking Protocol'
+    title: 'Puppy: A publicly verifiable watermarking protocol'
     year: '2023'
